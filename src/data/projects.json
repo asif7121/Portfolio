@@ -5,22 +5,22 @@
     "description": "This is a project made to learn the basic web development by building an app.",
     "skills": ["Html","EJS","Css","Cloudinary", "Express", "Node","MongoDB", "MapBox"],
     "demo": "https://yelpcamp-65po.onrender.com/",
-    "source": "https://github.com/asif7121/YelpCamp.git"
+    "source": "https://github.com/asif7121/YelpCamp"
   },
   {
     "title": "E-Commerce (Back-end)",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the back-end development by building an e-commerce app.",
-    "skills": ["MongoDB", "Express", "Node" ],
-    "demo": "https://github.com/asif7121/e-shop-REST-API.git",
-    "source": "https://github.com/asif7121/e-shop-REST-API.git"
+    "skills": ["MongoDB", "Express", "Node", "JWT" ],
+    "demo": "https://github.com/asif7121/e-shop-REST-API",
+    "source": "https://github.com/asif7121/e-shop-REST-API"
   },
   {
     "title": "Todo",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/Todo.png",
     "description": "This is a project made to learn the React languages by building an todo app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://github.com/asif7121/todo-app.git",
-    "source": "https://github.com/asif7121/todo-app.git"
+    "skills": ["React"],
+    "demo": "https://todo-app-eta-three-50.vercel.app/",
+    "source": "https://github.com/asif7121/todo-app"
   }
 ]
